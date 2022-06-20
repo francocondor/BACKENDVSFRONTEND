@@ -11,7 +11,3 @@ mongoose
         })
     })
     .catch(console.log);
-
-server.listen(PORT, () => {
-    console.log(`running on port ${PORT}`);
-})
