@@ -6,4 +6,5 @@ export interface Technology {
     tags: string[];
     createdAt: Date;
     updatedAt: Date;
-}
+  }
+  
